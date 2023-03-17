@@ -1,4 +1,5 @@
 module.exports = {
+    
     getdata(req, res) {
         let {nome, idade} = req.params
         
